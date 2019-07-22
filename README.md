@@ -1,4 +1,4 @@
 # buyili.github.io
 
-
-<script>window.location.href = "http://www.baidu.com"</script>
+<h1>hello</h1>
+<div></div>
